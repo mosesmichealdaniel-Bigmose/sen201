@@ -1,0 +1,59 @@
+Name: Fero
+Course: comp
+Skill Level (Beginner/Intermediate/Confident): Confident
+Availability (Morning/Afternoon/Evening): Evening
+Weeks to Exam: 4
+
+Name: Alex
+Course: comp
+Skill Level (Beginner/Intermediate/Confident): Beginner
+Availability (Morning/Afternoon/Evening): Morning
+Weeks to Exam: 6
+
+Name: Daniel
+Course: comp
+Skill Level (Beginner/Intermediate/Confident): Intermediate
+Availability (Morning/Afternoon/Evening): Afternoon
+Weeks to Exam: 5
+
+Name: Sarah
+Course: comp
+Skill Level (Beginner/Intermediate/Confident): Confident
+Availability (Morning/Afternoon/Evening): Morning
+Weeks to Exam: 3
+
+Name: Michael
+Course: comp
+Skill Level (Beginner/Intermediate/Confident): Beginner
+Availability (Morning/Afternoon/Evening): Evening
+Weeks to Exam: 8
+
+Name: Grace
+Course: comp
+Skill Level (Beginner/Intermediate/Confident): Intermediate
+Availability (Morning/Afternoon/Evening): Morning
+Weeks to Exam: 4
+
+Name: Joshua
+Course: comp
+Skill Level (Beginner/Intermediate/Confident): Confident
+Availability (Morning/Afternoon/Evening): Afternoon
+Weeks to Exam: 2
+
+Name: Esther
+Course: comp
+Skill Level (Beginner/Intermediate/Confident): Beginner
+Availability (Morning/Afternoon/Evening): Afternoon
+Weeks to Exam: 7
+
+Name: Samuel
+Course: comp
+Skill Level (Beginner/Intermediate/Confident): Intermediate
+Availability (Morning/Afternoon/Evening): Evening
+Weeks to Exam: 5
+
+Name: Mercy
+Course: comp
+Skill Level (Beginner/Intermediate/Confident): Confident
+Availability (Morning/Afternoon/Evening): Morning
+Weeks to Exam: 3
