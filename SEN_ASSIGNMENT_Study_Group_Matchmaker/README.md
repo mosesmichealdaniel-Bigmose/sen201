@@ -109,5 +109,5 @@ Future improvements:
 ---
 
 ## Author
-Ewenla Issachar Teninla  
+Micheal Akpan Moses
 Department of Computer Science
